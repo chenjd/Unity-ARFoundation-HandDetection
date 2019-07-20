@@ -1,0 +1,16 @@
+{
+  "name": "Unity.XR.ARFoundation.Runtime.Tests",
+    "references": [
+        "Unity.XR.ARFoundation"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
