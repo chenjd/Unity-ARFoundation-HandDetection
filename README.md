@@ -54,8 +54,9 @@ In the Unity-ARFoundation-HandDetection Proj, the structure of the plugins folde
 ## Read More
 [Unity AR Foundation and CoreML: Hand detection and tracking
 ](http://chenjd.xyz/2019/07/22/Unity-ARFoundation-CoreML/)
-
 I've written a article to describ the process for integrating CoreML and AR Foundation to detect and track the hand.
+![](/Res/Handdetection.png)
+
 
 
 ## License
