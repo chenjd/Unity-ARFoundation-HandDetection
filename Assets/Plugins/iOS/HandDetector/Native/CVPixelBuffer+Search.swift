@@ -52,7 +52,7 @@ extension CVPixelBuffer {
         }
 
         // We count the number of pixels in our frame. If the number is too low then we return nil because it means it's detecting a false positive
-        if whitePixelsCount < 20 {
+        if whitePixelsCount < 30 {
             returnPoint = nil
         }
 

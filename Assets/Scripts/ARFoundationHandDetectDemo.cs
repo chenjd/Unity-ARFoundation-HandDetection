@@ -1,7 +1,7 @@
 ﻿/*
     created by Jiadong Chen
 
-    email:chenjd1024@gmail.com
+    email: chenjd1024@gmail.com
  */
 
 using System;
@@ -98,7 +98,7 @@ public class ARFoundationHandDetectDemo : MonoBehaviour
        var handPos = new Vector3();
        handPos.x = pos.x;
        handPos.y = 1 - pos.y;
-       handPos.z = 4;//m_Cam.nearClipPlane;
+       handPos.z = 5;//m_Cam.nearClipPlane;
        var handWorldPos = m_Cam.ViewportToWorldPoint(handPos);
 
        if(m_Go == null)

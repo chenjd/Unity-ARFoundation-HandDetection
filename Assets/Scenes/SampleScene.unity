@@ -386,8 +386,6 @@ GameObject:
   - component: {fileID: 833156041}
   - component: {fileID: 833156040}
   - component: {fileID: 833156039}
-  - component: {fileID: 833156038}
-  - component: {fileID: 833156037}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -395,35 +393,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &833156037
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 833156036}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 1568414836858200, guid: f0e0be81472ff1243aa2afa27e5d0e61,
-    type: 3}
-  m_DetectionMode: -1
---- !u!114 &833156038
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 833156036}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ab0e80cee9cc1d44928bfe488dd1e2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_PointCloudPrefab: {fileID: 1854016325464908, guid: 0d4f49e744bffd14eb527ba76c9bba12,
-    type: 3}
 --- !u!114 &833156039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -509,7 +478,7 @@ MonoBehaviour:
   m_CameraManager: {fileID: 534082627}
   m_Cam: {fileID: 534082625}
   m_HandDetector: {fileID: 963324470}
-  m_TargetGo: {fileID: 1644995380055701576, guid: 5f3b3f72369d448f08b77f867854281a,
+  m_TargetGo: {fileID: 2287427469877214776, guid: 41bcb7329968c447d8f4621c82992930,
     type: 3}
   m_Go: {fileID: 0}
 --- !u!4 &963324472
