@@ -26,6 +26,9 @@ public class HandDetector : MonoBehaviour
     [DllImport("__Internal")]
     private static extern bool HandDetector_StartDetect(IntPtr buffer);
 
+    [DllImport("__Internal")]
+    private static extern IntPtr HandDetector_GetDetectedTexture();
+
     #endregion
 
     #region Fields
@@ -57,6 +60,11 @@ public class HandDetector : MonoBehaviour
         {
             m_DetectionStatus = DetectionStatus.Detecting;
         }
+    }
+
+    public IntPtr GetDetectedTexture()
+    {
+        return HandDetector_GetDetectedTexture();
     }
 
     private void OnHandDetecedFromNative(string data)

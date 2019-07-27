@@ -12,6 +12,7 @@ import Vision
 @objc public class HandDetector: NSObject{
     
     @objc static let shared = HandDetector()
+    @objc public var outputBuffer : CVPixelBuffer?
     
     private let visionQueue = DispatchQueue(label: "com.chenjd.HandDetector")
     
@@ -67,6 +68,8 @@ import Vision
             }
             
             let outBuffer = observation.pixelBuffer
+            
+            self.outputBuffer = observation.pixelBuffer
             
             guard let point = outBuffer.searchTopPoint() else{
                 UnitySendMessage(self.callbackTarget, "OnHandDetecedFromNative", "")

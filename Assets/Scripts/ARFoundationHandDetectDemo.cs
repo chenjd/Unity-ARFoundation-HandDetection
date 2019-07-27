@@ -10,6 +10,7 @@ using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
+using UnityEngine.UI;
 
 public class ARFoundationHandDetectDemo : MonoBehaviour
 {
@@ -39,6 +40,11 @@ public class ARFoundationHandDetectDemo : MonoBehaviour
     }
 
     public GameObject m_Go;
+
+    [SerializeField]
+    RawImage m_RawImage;
+
+    private Texture2D m_TexFromNative = null;
 
 
     void OnEnable()
@@ -100,6 +106,25 @@ public class ARFoundationHandDetectDemo : MonoBehaviour
        handPos.y = 1 - pos.y;
        handPos.z = 5;//m_Cam.nearClipPlane;
        var handWorldPos = m_Cam.ViewportToWorldPoint(handPos);
+
+       IntPtr texHandler = m_HandDetector.GetDetectedTexture();
+
+       if(texHandler == IntPtr.Zero)
+       {
+           return;
+       }
+
+       if(m_TexFromNative == null)
+       {
+           m_TexFromNative = Texture2D.CreateExternalTexture(128, 128, TextureFormat.ARGB32, false, false, texHandler);
+       }
+
+       m_TexFromNative.UpdateExternalTexture(texHandler);
+
+       m_RawImage.texture = m_TexFromNative;
+
+       return; 
+        
 
        if(m_Go == null)
        {
