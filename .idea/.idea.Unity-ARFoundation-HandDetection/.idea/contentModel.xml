@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="ARPackages" t="Include">
+        <e p="com.unity.xr.arfoundation" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ARCameraBackgroundEditor.cs" t="Include" />
+            <e p="ARSceneValidator.cs" t="Include" />
+            <e p="PlaneDetectionModeAttributeDrawer.cs" t="Include" />
+            <e p="SceneUtils.cs" t="Include" />
+            <e p="Unity.XR.ARFoundation.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="AR" t="Include">
+              <e p="ARBackgroundRendererAsset.cs" t="Include" />
+              <e p="ARCameraBackground.cs" t="Include" />
+              <e p="ARCameraFrameEventArgs.cs" t="Include" />
+              <e p="ARCameraManager.cs" t="Include" />
+              <e p="AREnvironmentProbe.cs" t="Include" />
+              <e p="AREnvironmentProbeManager.cs" t="Include" />
+              <e p="AREnvironmentProbePlacementType.cs" t="Include" />
+              <e p="AREnvironmentProbesChangedEvent.cs" t="Include" />
+              <e p="ARFace.cs" t="Include" />
+              <e p="ARFaceManager.cs" t="Include" />
+              <e p="ARFaceMeshVisualizer.cs" t="Include" />
+              <e p="ARFacesChangedEventArgs.cs" t="Include" />
+              <e p="ARFaceUpdatedEventArgs.cs" t="Include" />
+              <e p="ARFoundationBackgroundRenderer.cs" t="Include" />
+              <e p="ARFoundationBackgroundRendererChangedEventArgs.cs" t="Include" />
+              <e p="ARHumanBodiesChangedEventArgs.cs" t="Include" />
+              <e p="ARHumanBody.cs" t="Include" />
+              <e p="ARHumanBodyManager.cs" t="Include" />
+              <e p="ARInputManager.cs" t="Include" />
+              <e p="ARLightEstimationData.cs" t="Include" />
+              <e p="ARPlane.cs" t="Include" />
+              <e p="ARPlaneBoundaryChangedEventArgs.cs" t="Include" />
+              <e p="ARPlaneManager.cs" t="Include" />
+              <e p="ARPlaneMeshGenerators.cs" t="Include" />
+              <e p="ARPlaneMeshVisualizer.cs" t="Include" />
+              <e p="ARPlanesChangedEventArgs.cs" t="Include" />
+              <e p="ARPointCloud.cs" t="Include" />
+              <e p="ARPointCloudChangedEventArgs.cs" t="Include" />
+              <e p="ARPointCloudManager.cs" t="Include" />
+              <e p="ARPointCloudMeshVisualizer.cs" t="Include" />
+              <e p="ARPointCloudParticleVisualizer.cs" t="Include" />
+              <e p="ARPointCloudUpdatedEventArgs.cs" t="Include" />
+              <e p="ARRaycastHit.cs" t="Include" />
+              <e p="ARRaycastManager.cs" t="Include" />
+              <e p="ARReferencePoint.cs" t="Include" />
+              <e p="ARReferencePointManager.cs" t="Include" />
+              <e p="ARReferencePointsChangedEventArgs.cs" t="Include" />
+              <e p="ARSession.cs" t="Include" />
+              <e p="ARSessionOrigin.cs" t="Include" />
+              <e p="ARSessionState.cs" t="Include" />
+              <e p="ARSessiontateChangedEventArgs.cs" t="Include" />
+              <e p="ARTextureInfo.cs" t="Include" />
+              <e p="ARTrackable.cs" t="Include" />
+              <e p="ARTrackableManager.cs" t="Include" />
+              <e p="ARTrackedImage.cs" t="Include" />
+              <e p="ARTrackedImageManager.cs" t="Include" />
+              <e p="ARTrackedImagesChangedEventArgs.cs" t="Include" />
+              <e p="ARTrackedObject.cs" t="Include" />
+              <e p="ARTrackedObjectManager.cs" t="Include" />
+              <e p="ARTrackedObjectsChangedEventArgs.cs" t="Include" />
+              <e p="ARUpdateOrder.cs" t="Include" />
+              <e p="IRaycaster.cs" t="Include" />
+              <e p="PlaneDetectionModeMaskAttribute.cs" t="Include" />
+              <e p="PoseExtensions.cs" t="Include" />
+              <e p="SubsystemLifecycleManager.cs" t="Include" />
+              <e p="TrackableCollection.cs" t="Include" />
+              <e p="TransformExtensions.cs" t="Include" />
+            </e>
+            <e p="Unity.XR.ARFoundation.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="com.unity.xr.arkit" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ARKitBuildProcessor.cs" t="Include" />
+            <e p="ARKitReferenceImageLibraryBuildProcessor.cs" t="Include" />
+            <e p="ARKitSettings.cs" t="Include" />
+            <e p="ARKitSettingsProvider.cs" t="Include" />
+            <e p="ARReferenceImage.cs" t="Include" />
+            <e p="ARReferenceObject.cs" t="Include" />
+            <e p="ARResource.cs" t="Include" />
+            <e p="ARResourceGroup.cs" t="Include" />
+            <e p="csc.rsp" t="Include" />
+            <e p="Json.cs" t="Include" />
+            <e p="ObjectTracking" t="Include">
+              <e p="ARKitReferenceObjectEntryEditor.cs" t="Include" />
+              <e p="ARKitReferenceObjectLibraryBuildProcessor.cs" t="Include" />
+              <e p="ARObject.cs" t="Include" />
+              <e p="ARObjectImporter.cs" t="Include" />
+              <e p="ARObjectInfo.cs" t="Include" />
+            </e>
+            <e p="Unity.XR.ARKit.Editor.asmdef" t="Include" />
+            <e p="XcodeAssetCatalog.cs" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="ARKitApi.cs" t="Include" />
+            <e p="ARKitCameraSubsystem.cs" t="Include" />
+            <e p="ARKitEnvironmentProbeSubsystem.cs" t="Include" />
+            <e p="ARKitRaycastSubsystem.cs" t="Include" />
+            <e p="ARKitReferencePointSubsystem.cs" t="Include" />
+            <e p="ARKitSessionSubsystem.cs" t="Include" />
+            <e p="ARWorldMap.cs" t="Include" />
+            <e p="ARWorldMappingStatus.cs" t="Include" />
+            <e p="ARWorldMapRequest.cs" t="Include" />
+            <e p="ARWorldMapRequestStatus.cs" t="Include" />
+            <e p="Assembly.cs" t="Include" />
+            <e p="Depth" t="Include">
+              <e p="ARKitXRDepthSubsystem.cs" t="Include" />
+            </e>
+            <e p="EnvironmentProbeApi.cs" t="Include" />
+            <e p="ImageTracking" t="Include">
+              <e p="ARKitImageTrackingProvider.cs" t="Include" />
+            </e>
+            <e p="iOS" t="Include">
+              <e p="Resources" t="Include">
+                <e p="ARKitShader.shader" t="Include" />
+              </e>
+            </e>
+            <e p="ObjectTracking" t="Include">
+              <e p="ARKitReferenceObjectEntry.cs" t="Include" />
+              <e p="ARKitXRObjectTrackingSubsystem.cs" t="Include" />
+            </e>
+            <e p="PlaneTracking" t="Include">
+              <e p="ARKitXRPlaneSubsystem.cs" t="Include" />
+            </e>
+            <e p="SetReferenceLibraryResult.cs" t="Include" />
+            <e p="Unity.XR.ARKit.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="BuildPostProcessing.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="iOS" t="Include">
+            <e p="HandDetector" t="Include">
+              <e p="Managed" t="Include">
+                <e p="HandDetector.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ARFoundationHandDetectDemo.cs" t="Include" />
+        </e>
+        <e p="unity-chan!" t="Include">
+          <e p="Unity-chan! Model" t="Include">
+            <e p="Art" t="Include">
+              <e p="UnityChanShader" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eye.shader" t="Include" />
+                  <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                  <e p="Unitychan_chara_hada.shader" t="Include" />
+                  <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_hair.shader" t="Include" />
+                  <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity-ARFoundation-HandDetection.sln" t="IncludeFlat" />
+      <e p="Unity.XR.ARFoundation.csproj" t="IncludeRecursive" />
+      <e p="Unity.XR.ARFoundation.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.XR.ARKit.csproj" t="IncludeRecursive" />
+      <e p="Unity.XR.ARKit.Editor.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Unity-ARFoundation-HandDetection.1954135427.00" t="ExcludeRecursive" />
+  </component>
+</project>

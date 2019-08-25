@@ -44,7 +44,14 @@ public class ARFoundationHandDetectDemo : MonoBehaviour
     [SerializeField]
     RawImage m_RawImage;
 
+    public Material m_BlitMat;
+
     private Texture2D m_TexFromNative = null;
+    public Texture2D textureFromNative
+    {
+        get => m_TexFromNative;
+        set => m_TexFromNative = value;
+    }
 
 
     void OnEnable()
@@ -121,7 +128,7 @@ public class ARFoundationHandDetectDemo : MonoBehaviour
 
        m_TexFromNative.UpdateExternalTexture(texHandler);
 
-       m_RawImage.texture = m_TexFromNative;
+    //    m_RawImage.texture = m_TexFromNative;
 
        return; 
         
@@ -134,4 +141,6 @@ public class ARFoundationHandDetectDemo : MonoBehaviour
        m_Go.transform.position = handWorldPos;
        m_Go.transform.LookAt(m_Cam.transform);
     }
+
+
 }

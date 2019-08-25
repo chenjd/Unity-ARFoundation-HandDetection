@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eee6e38a-b216-4d93-bcb9-e1f81e3d8f13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Managed/HandDetector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Managed/HandDetector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Native/HandDetector.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Native/HandDetector.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Native/HandDetectorBridge.mm" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Native/HandDetectorBridge.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ARFoundationHandDetectDemo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ARFoundationHandDetectDemo.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="846189417">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARFoundationHandDetectDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="635">
+              <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+              <folding>
+                <marker date="1564202991445" expanded="true" signature="0:67" ph="/* created by Jiadong Chen ... */" />
+                <marker date="1564202991445" expanded="false" signature="75:246" ph="..." />
+                <marker date="1564202991445" expanded="true" signature="303:2622" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="475:559" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="736:810" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="861:1123" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="904:992" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="1028:1117" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="1145:1407" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="1188:1276" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="1312:1401" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="1480:2095" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="2165:2620" ph="{...}" />
+                <marker date="1564202991445" expanded="true" signature="2424:2519" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Managed/HandDetector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-332">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <marker date="1564202960873" expanded="true" signature="0:70" ph="/* created by Jiadong Chen ... */" />
+                <marker date="1564202960873" expanded="false" signature="78:221" ph="..." />
+                <marker date="1564202960873" expanded="true" signature="264:1963" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="291:365" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="372:613" ph="Native Bindings" />
+                <marker date="1564202960873" expanded="true" signature="619:720" ph="Fields" />
+                <marker date="1564202960873" expanded="true" signature="727:814" ph="Callback" />
+                <marker date="1564202960873" expanded="true" signature="820:1819" ph="Methods" />
+                <marker date="1564202960873" expanded="true" signature="879:1170" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="919:1006" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1085:1164" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1225:1803" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1325:1365" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1445:1485" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1594:1634" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1729:1797" ph="{...}" />
+                <marker date="1564202960873" expanded="true" signature="1826:1959" ph="Properties" />
+                <marker date="1564202960873" expanded="true" signature="1868:1943" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Managed/HandDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ARFoundationHandDetectDemo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Managed/HandDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARFoundationHandDetectDemo.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+              <item name="iOS" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+              <item name="iOS" type="1045f7f1:UnityExplorerNode" />
+              <item name="HandDetector" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+              <item name="iOS" type="1045f7f1:UnityExplorerNode" />
+              <item name="HandDetector" type="1045f7f1:UnityExplorerNode" />
+              <item name="Managed" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee6e38a-b216-4d93-bcb9-e1f81e3d8f13" name="Default Changelist" comment="" />
+      <created>1564202861152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564202861152</updated>
+      <workItem from="1564202862927" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/iOS/HandDetector/Managed/HandDetector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <marker date="1564202960873" expanded="true" signature="0:70" ph="/* created by Jiadong Chen ... */" />
+            <marker date="1564202960873" expanded="false" signature="78:221" ph="..." />
+            <marker date="1564202960873" expanded="true" signature="264:1963" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="291:365" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="372:613" ph="Native Bindings" />
+            <marker date="1564202960873" expanded="true" signature="619:720" ph="Fields" />
+            <marker date="1564202960873" expanded="true" signature="727:814" ph="Callback" />
+            <marker date="1564202960873" expanded="true" signature="820:1819" ph="Methods" />
+            <marker date="1564202960873" expanded="true" signature="879:1170" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="919:1006" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1085:1164" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1225:1803" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1325:1365" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1445:1485" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1594:1634" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1729:1797" ph="{...}" />
+            <marker date="1564202960873" expanded="true" signature="1826:1959" ph="Properties" />
+            <marker date="1564202960873" expanded="true" signature="1868:1943" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARFoundationHandDetectDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding>
+            <marker date="1564202991445" expanded="true" signature="0:67" ph="/* created by Jiadong Chen ... */" />
+            <marker date="1564202991445" expanded="false" signature="75:246" ph="..." />
+            <marker date="1564202991445" expanded="true" signature="303:2622" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="475:559" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="736:810" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="861:1123" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="904:992" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="1028:1117" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="1145:1407" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="1188:1276" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="1312:1401" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="1480:2095" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="2165:2620" ph="{...}" />
+            <marker date="1564202991445" expanded="true" signature="2424:2519" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
