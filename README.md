@@ -6,6 +6,15 @@ The project used in [this article](http://chenjd.xyz/2019/07/22/Unity-ARFoundati
 
 The `master` branch is currently used for development and does not guarantee stability.
 
+## Update
+
+Add `GetNativeTexture` scene to the master branch to show how to get native texture from iOS to Unity context and use this texture to implement the hand pixelate effect.
+
+There is a video:
+
+[Unity AR Foundation Hand Detection 4
+](https://www.youtube.com/watch?v=l0ZY2YEu7Ts)
+
 ## Description
 
 This demo project shows how to enable the CoreML to work with [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.5/manual/index.html) in Unity.
