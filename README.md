@@ -2,7 +2,7 @@
 
 ## Note
 
-The project used in [this article](http://chenjd.xyz/2019/07/22/Unity-ARFoundation-CoreML/) is on the `ForHandDetectionAndTrackingArticle` branch. 
+The project used in [this article](https://medium.com/chenjd-xyz/unity-ar-foundation-and-coreml-hand-detection-and-tracking-b74c592206c5) is on the `ForHandDetectionAndTrackingArticle` branch. 
 
 The `master` branch is currently used for development and does not guarantee stability.
 
