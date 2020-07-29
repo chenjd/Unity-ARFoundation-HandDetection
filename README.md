@@ -1,4 +1,9 @@
 # Unity-ARFoundation-HandDetection
+![GitHub](https://img.shields.io/github/license/chenjd/Unity-ARFoundation-HandDetection)
+![](https://img.shields.io/badge/platform-iOS-brightgreen)
+![](https://img.shields.io/badge/unity-2018.3%2B-brightgreen)
+![GitHub language count](https://img.shields.io/github/languages/count/chenjd/Unity-ARFoundation-HandDetection)
+
 
 ## Note
 
